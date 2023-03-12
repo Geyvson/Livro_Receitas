@@ -1,7 +1,6 @@
-# Strogonoff de Frango :chicken:
+# Receitas :meat_on_bone:
 
 
 
-- frando
-- carne
+- Strogonoff de Frango.
 - 
