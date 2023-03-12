@@ -1,6 +1,5 @@
-# Receitas :meat_on_bone:
+# Livro de Receitas :man_cook:
 
 
 
-- Strogonoff de Frango.
-- 
+ ## 	Olá, Bem vindos ao meu Livro de Receitas :wave:
